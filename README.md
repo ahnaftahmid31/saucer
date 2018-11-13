@@ -8,7 +8,7 @@
 ### Setup
 - Download [Windows Visual Studio](https://visualstudio.microsoft.com/downloads/) 
 - Download [iGraphics](https://www.dropbox.com/s/4eykq1sbiv2wy1p/iGraphics%20Files%20Updated.zip?dl=0)
-- Open a project in Visual Studio and then configure all settings.
+- Opne last one.exe to play or Open a project in Visual Studio and then configure all settings .
   You can take help from this [YouTube Video](https://www.youtube.com/watch?v=CL3YYkCdbvI&list=PLWxyqfNEyneg_xWZqpdsFulYAgzZYn4cL)
 - Then download all files from "Saucer" and add the files(.cpp , .h , .ttf, .png, .ogg) to your project folder .
 
