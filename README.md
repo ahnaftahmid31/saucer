@@ -1,6 +1,6 @@
 # Saucer
 ----
-“Saucer” is an arcade style game based on the old mobile game calle space impact. In this game you need to shoot the saucers and their boss to complete the level. The game is very easy.
+“Saucer” is an arcade style game based on the old mobile game called space impact. In this game you need to shoot the saucers and their boss to complete the level. The game is very easy.
 
 --------------------------------------------------
 
